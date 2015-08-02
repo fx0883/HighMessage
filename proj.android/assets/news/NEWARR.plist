@@ -1,0 +1,2799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>status</key>
+		<string>已完成</string>
+		<key>spell</key>
+		<string>sjecl</string>
+		<key>author</key>
+		<string>金庸</string>
+		<key>src</key>
+		<string>wuxia1.png</string>
+		<key>title</key>
+		<string>书剑恩仇录</string>
+		<key>partTitleArr</key>
+		<array>
+			<string>章节列表</string>
+		</array>
+		<key>chapterArrArr</key>
+		<array>
+			<array>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc001.htm</string>
+					<key>chapterTitle</key>
+					<string>第 一 回　古道腾驹惊白发 危峦快剑识青翎</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc002.htm</string>
+					<key>chapterTitle</key>
+					<string>第 二 回　金风野店书生笛 铁胆荒庄侠士心</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc003.htm</string>
+					<key>chapterTitle</key>
+					<string>第 三 回　避祸英雄悲失路 寻仇好汉误交兵</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc004.htm</string>
+					<key>chapterTitle</key>
+					<string>第 四 回　置酒弄丸招薄怒 还书贻剑种深情</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc005.htm</string>
+					<key>chapterTitle</key>
+					<string>第 五 回　乌鞘岭口拚鬼侠 赤套渡头扼官军</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc006.htm</string>
+					<key>chapterTitle</key>
+					<string>第 六 回　有情有义怜难侣 无法无天振饥民</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc007.htm</string>
+					<key>chapterTitle</key>
+					<string>第 七 回　琴音朗朗闻雁落 剑气沉沉作龙吟</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc008.htm</string>
+					<key>chapterTitle</key>
+					<string>第 八 回　千军岳峙围千顷 万马潮汹动万乘</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc009.htm</string>
+					<key>chapterTitle</key>
+					<string>第 九 回　虎穴轻身开铁铐 狮峰重气掷金针</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc010.htm</string>
+					<key>chapterTitle</key>
+					<string>第 十 回　烟腾火炽走豪侠 粉腻脂香羁至尊</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc011.htm</string>
+					<key>chapterTitle</key>
+					<string>第十一回　高塔入云盟九鼎 快招如电显双鹰</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc012.htm</string>
+					<key>chapterTitle</key>
+					<string>第十二回　盈盈彩烛三生约 霍霍青霜万里行</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc013.htm</string>
+					<key>chapterTitle</key>
+					<string>第十三回　吐气扬眉雷掌疾 惊才绝艳雪莲馨</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc014.htm</string>
+					<key>chapterTitle</key>
+					<string>第十四回　蜜意柔情锦带舞 长枪大戟铁弓鸣</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc015.htm</string>
+					<key>chapterTitle</key>
+					<string>第十五回　奇谋破敌将军苦 儿戏降魔玉女瞋</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc016.htm</string>
+					<key>chapterTitle</key>
+					<string>第十六回　我见犹怜二老意 谁能遣此双姝情</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc017.htm</string>
+					<key>chapterTitle</key>
+					<string>第十七回　为民除害方称侠 抗暴蒙污不愧贞</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc018.htm</string>
+					<key>chapterTitle</key>
+					<string>第十八回　驱驴有术居奇货 除恶无方从佳人</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc019.htm</string>
+					<key>chapterTitle</key>
+					<string>第十九回　心伤殿隅星初落 魂断城头日已昏</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc020.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十回　忍见红颜堕火窟 空余碧血葬香魂</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc021.htm</string>
+					<key>chapterTitle</key>
+					<string>注</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/08/mydoc022.htm</string>
+					<key>chapterTitle</key>
+					<string>后记</string>
+				</dict>
+			</array>
+		</array>
+	</dict>
+	<dict>
+		<key>status</key>
+		<string>已完成</string>
+		<key>spell</key>
+		<string>bxj</string>
+		<key>author</key>
+		<string>金庸</string>
+		<key>src</key>
+		<string>wuxia2.png</string>
+		<key>title</key>
+		<string>碧血剑</string>
+		<key>partTitleArr</key>
+		<array>
+			<string>章节列表</string>
+		</array>
+		<key>chapterArrArr</key>
+		<array>
+			<array>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc001.htm</string>
+					<key>chapterTitle</key>
+					<string>第 一 回　危邦行蜀道 乱世坏长城</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc002.htm</string>
+					<key>chapterTitle</key>
+					<string>第 二 回　恩仇同患难 死生见交情</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc003.htm</string>
+					<key>chapterTitle</key>
+					<string>第 三 回　经年亲剑铗 长日对楸枰</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc004.htm</string>
+					<key>chapterTitle</key>
+					<string>第 四 回　矫矫金蛇剑 翩翩美少年</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc005.htm</string>
+					<key>chapterTitle</key>
+					<string>第 五 回　山幽花寂寂 水秀草青青</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc006.htm</string>
+					<key>chapterTitle</key>
+					<string>第 六 回　逾墙搂处子 结阵困郎君</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc007.htm</string>
+					<key>chapterTitle</key>
+					<string>第 七 回　破阵缘秘笈 藏珍有遗图</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc008.htm</string>
+					<key>chapterTitle</key>
+					<string>第 八 回　易寒强敌胆 难解女儿心</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc009.htm</string>
+					<key>chapterTitle</key>
+					<string>第 九 回　双姝拚巨赌 一使解深怨</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc010.htm</string>
+					<key>chapterTitle</key>
+					<string>第 十 回　不传传百变 无敌敌千招</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc011.htm</string>
+					<key>chapterTitle</key>
+					<string>第十一回　慷慨同仇日 间关百战时</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc012.htm</string>
+					<key>chapterTitle</key>
+					<string>第十二回　王母桃中药 头陀席上珍</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc013.htm</string>
+					<key>chapterTitle</key>
+					<string>第十三回　挥椎师博浪 毁炮挫哥舒</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc014.htm</string>
+					<key>chapterTitle</key>
+					<string>第十四回　剑光崇政殿 烛影昭阳宫</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc015.htm</string>
+					<key>chapterTitle</key>
+					<string>第十五回　纤纤出铁手 矫矫舞金蛇</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc016.htm</string>
+					<key>chapterTitle</key>
+					<string>第十六回　石冈凝冷月 铁手拂晓风</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc017.htm</string>
+					<key>chapterTitle</key>
+					<string>第十七回　青衿心上意 彩笔画中人</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc018.htm</string>
+					<key>chapterTitle</key>
+					<string>第十八回　朱颜罹宝剑 黑甲入名都</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc019.htm</string>
+					<key>chapterTitle</key>
+					<string>第十九回　嗟乎兴圣主 亦复苦生民</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc020.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十回　空负安邦志 遂吟去国行</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc021.htm</string>
+					<key>chapterTitle</key>
+					<string>袁崇焕评传</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/15/mydoc022.htm</string>
+					<key>chapterTitle</key>
+					<string>后记</string>
+				</dict>
+			</array>
+		</array>
+	</dict>
+	<dict>
+		<key>status</key>
+		<string>已完成</string>
+		<key>spell</key>
+		<string>sdyxz</string>
+		<key>author</key>
+		<string>金庸</string>
+		<key>src</key>
+		<string>wuxia3.png</string>
+		<key>title</key>
+		<string>射雕英雄传</string>
+		<key>partTitleArr</key>
+		<array>
+			<string>章节列表</string>
+		</array>
+		<key>chapterArrArr</key>
+		<array>
+			<array>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc001.htm</string>
+					<key>chapterTitle</key>
+					<string>第 一 回　风雪惊变</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc002.htm</string>
+					<key>chapterTitle</key>
+					<string>第 二 回　江南七怪</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc003.htm</string>
+					<key>chapterTitle</key>
+					<string>第 三 回　大漠风沙</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc004.htm</string>
+					<key>chapterTitle</key>
+					<string>第 四 回　黑风双煞</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc005.htm</string>
+					<key>chapterTitle</key>
+					<string>第 五 回　弯弓射雕</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc006.htm</string>
+					<key>chapterTitle</key>
+					<string>第 六 回　崖顶疑阵</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc007.htm</string>
+					<key>chapterTitle</key>
+					<string>第 七 回　比武招亲</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc008.htm</string>
+					<key>chapterTitle</key>
+					<string>第 八 回　各显神通</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc009.htm</string>
+					<key>chapterTitle</key>
+					<string>第 九 回　铁枪破犁</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc010.htm</string>
+					<key>chapterTitle</key>
+					<string>第 十 回　冤家聚头</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc011.htm</string>
+					<key>chapterTitle</key>
+					<string>第十一回　长春服输</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc012.htm</string>
+					<key>chapterTitle</key>
+					<string>第十二回　亢龙有悔</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc013.htm</string>
+					<key>chapterTitle</key>
+					<string>第十三回　五湖废人</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc014.htm</string>
+					<key>chapterTitle</key>
+					<string>第十四回　桃花岛主</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc015.htm</string>
+					<key>chapterTitle</key>
+					<string>第十五回　神龙摆尾</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc016.htm</string>
+					<key>chapterTitle</key>
+					<string>第十六回　九阴真经</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc017.htm</string>
+					<key>chapterTitle</key>
+					<string>第十七回　双手互搏</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc018.htm</string>
+					<key>chapterTitle</key>
+					<string>第十八回　三道试题</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc019.htm</string>
+					<key>chapterTitle</key>
+					<string>第十九回　洪涛群鲨</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc020.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十回　窜改经文</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc021.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十一回　千钧巨岩</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc022.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十二回　骑鲨遨游</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc023.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十三回　大闹禁宫</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc024.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十四回　密室疗伤</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc025.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十五回　荒村野店</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc026.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十六回　新盟旧约</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc027.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十七回　轩辕台前</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc028.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十八回　铁掌峰顶</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc029.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十九回　黑沼隐女</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc030.htm</string>
+					<key>chapterTitle</key>
+					<string>第 三十 回　一灯大师</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc031.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十一回　鸯鸳锦帕</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc032.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十二回　湍江险滩</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc033.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十三回　来日大难</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc034.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十四回　岛上巨变</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc035.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十五回　铁枪庙中</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc036.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十六回　大军西征</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc037.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十七回　从天而降</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc038.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十八回　锦囊密令</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc039.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十九回　是非善恶</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc040.htm</string>
+					<key>chapterTitle</key>
+					<string>第 四十 回　华山论剑</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc041.htm</string>
+					<key>chapterTitle</key>
+					<string>成吉思汗家族</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc042.htm</string>
+					<key>chapterTitle</key>
+					<string>关于“全真教”</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/03/mydoc043.htm</string>
+					<key>chapterTitle</key>
+					<string>后　记</string>
+				</dict>
+			</array>
+		</array>
+	</dict>
+	<dict>
+		<key>status</key>
+		<string>已完成</string>
+		<key>spell</key>
+		<string>xsfh</string>
+		<key>author</key>
+		<string>金庸</string>
+		<key>src</key>
+		<string>wuxia4.png</string>
+		<key>title</key>
+		<string>雪山飞狐</string>
+		<key>partTitleArr</key>
+		<array>
+			<string>章节列表</string>
+		</array>
+		<key>chapterArrArr</key>
+		<array>
+			<array>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/13/mydoc001.htm</string>
+					<key>chapterTitle</key>
+					<string>一</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/13/mydoc002.htm</string>
+					<key>chapterTitle</key>
+					<string>二</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/13/mydoc003.htm</string>
+					<key>chapterTitle</key>
+					<string>三</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/13/mydoc004.htm</string>
+					<key>chapterTitle</key>
+					<string>四</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/13/mydoc005.htm</string>
+					<key>chapterTitle</key>
+					<string>五</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/13/mydoc006.htm</string>
+					<key>chapterTitle</key>
+					<string>六</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/13/mydoc007.htm</string>
+					<key>chapterTitle</key>
+					<string>七</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/13/mydoc008.htm</string>
+					<key>chapterTitle</key>
+					<string>八</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/13/mydoc009.htm</string>
+					<key>chapterTitle</key>
+					<string>九</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/13/mydoc010.htm</string>
+					<key>chapterTitle</key>
+					<string>一○</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/13/mydoc011.htm</string>
+					<key>chapterTitle</key>
+					<string>后记</string>
+				</dict>
+			</array>
+		</array>
+	</dict>
+	<dict>
+		<key>status</key>
+		<string>已完成</string>
+		<key>spell</key>
+		<string>sdxl</string>
+		<key>author</key>
+		<string>金庸</string>
+		<key>src</key>
+		<string>wuxia5.png</string>
+		<key>title</key>
+		<string>神雕侠侣</string>
+		<key>partTitleArr</key>
+		<array>
+			<string>章节列表</string>
+		</array>
+		<key>chapterArrArr</key>
+		<array>
+			<array>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc001.htm</string>
+					<key>chapterTitle</key>
+					<string>第 一 回　风月无情</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc002.htm</string>
+					<key>chapterTitle</key>
+					<string>第 二 回　故人之子</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc003.htm</string>
+					<key>chapterTitle</key>
+					<string>第 三 回　求师终南</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc004.htm</string>
+					<key>chapterTitle</key>
+					<string>第 四 回　全真门下</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc005.htm</string>
+					<key>chapterTitle</key>
+					<string>第 五 回　活死人墓</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc006.htm</string>
+					<key>chapterTitle</key>
+					<string>第 六 回　玉女心经</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc007.htm</string>
+					<key>chapterTitle</key>
+					<string>第 七 回　重阳遗篇</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc008.htm</string>
+					<key>chapterTitle</key>
+					<string>第 八 回　白衣少女</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc009.htm</string>
+					<key>chapterTitle</key>
+					<string>第 九 回　百计避敌</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc010.htm</string>
+					<key>chapterTitle</key>
+					<string>第 十 回　少年英侠</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc011.htm</string>
+					<key>chapterTitle</key>
+					<string>第十一回　风尘困顿</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc012.htm</string>
+					<key>chapterTitle</key>
+					<string>第十二回　英雄大宴</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc013.htm</string>
+					<key>chapterTitle</key>
+					<string>第十三回　武林盟主</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc014.htm</string>
+					<key>chapterTitle</key>
+					<string>第十四回　礼教大防</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc015.htm</string>
+					<key>chapterTitle</key>
+					<string>第十五回　东邪门人</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc016.htm</string>
+					<key>chapterTitle</key>
+					<string>第十六回　杀父深仇</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc017.htm</string>
+					<key>chapterTitle</key>
+					<string>第十七回　绝情幽谷</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc018.htm</string>
+					<key>chapterTitle</key>
+					<string>第十八回　公孙谷主</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc019.htm</string>
+					<key>chapterTitle</key>
+					<string>第十九回　地底老妇</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc020.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十回　侠之大者</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc021.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十一回　襄阳鏖兵</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc022.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十二回　危城女婴</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc023.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十三回　手足情仇</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc024.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十四回　意乱情迷</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc025.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十五回　内忧外患</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc026.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十六回　神雕重剑</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc027.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十七回　斗智斗力</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc028.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十八回　洞房花烛</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc029.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十九回　劫难重重</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc030.htm</string>
+					<key>chapterTitle</key>
+					<string>第 三十 回　离合无常</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc031.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十一回　半枚灵丹</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc032.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十二回　情是何物</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc033.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十三回　风陵夜话</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc034.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十四回　排难解纷</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc035.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十五回　三枚金针</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc036.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十六回　献礼祝寿</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc037.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十七回　三世恩怨</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc038.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十八回　生死茫茫</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc039.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十九回　大战襄阳</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc040.htm</string>
+					<key>chapterTitle</key>
+					<string>第 四十 回　华山之巅</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/05/mydoc041.htm</string>
+					<key>chapterTitle</key>
+					<string>后记</string>
+				</dict>
+			</array>
+		</array>
+	</dict>
+	<dict>
+		<key>status</key>
+		<string>已完成</string>
+		<key>spell</key>
+		<string>fhwz</string>
+		<key>author</key>
+		<string>金庸</string>
+		<key>src</key>
+		<string>wuxia6.png</string>
+		<key>title</key>
+		<string>飞狐外传</string>
+		<key>partTitleArr</key>
+		<array>
+			<string>章节列表</string>
+		</array>
+		<key>chapterArrArr</key>
+		<array>
+			<array>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc001.htm</string>
+					<key>chapterTitle</key>
+					<string>第一 章　大雨商家堡</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc002.htm</string>
+					<key>chapterTitle</key>
+					<string>第 二 章　宝刀和柔情</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc003.htm</string>
+					<key>chapterTitle</key>
+					<string>第 三 章　英雄年少</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc004.htm</string>
+					<key>chapterTitle</key>
+					<string>第 四 章　铁厅烈火</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc005.htm</string>
+					<key>chapterTitle</key>
+					<string>第 五 章　血印石</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc006.htm</string>
+					<key>chapterTitle</key>
+					<string>第 六 章　紫衣女郎</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc007.htm</string>
+					<key>chapterTitle</key>
+					<string>第 七 章　风雨深宵古庙</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc008.htm</string>
+					<key>chapterTitle</key>
+					<string>第 八 章　江湖风波恶</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc009.htm</string>
+					<key>chapterTitle</key>
+					<string>第 九 章　毒手药王</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc010.htm</string>
+					<key>chapterTitle</key>
+					<string>第 十 章　七心海棠</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc011.htm</string>
+					<key>chapterTitle</key>
+					<string>第十一章　恩仇之际</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc012.htm</string>
+					<key>chapterTitle</key>
+					<string>第十二章　古怪的盗党</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc013.htm</string>
+					<key>chapterTitle</key>
+					<string>第十三章　北京众武官</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc014.htm</string>
+					<key>chapterTitle</key>
+					<string>第十四章　紫罗衫动红烛移</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc015.htm</string>
+					<key>chapterTitle</key>
+					<string>第十五章　华拳四十八</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc016.htm</string>
+					<key>chapterTitle</key>
+					<string>第十六章　龙潭虎穴</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc017.htm</string>
+					<key>chapterTitle</key>
+					<string>第十七章　天下掌门人大会</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc018.htm</string>
+					<key>chapterTitle</key>
+					<string>第十八章　宝刀银针</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc019.htm</string>
+					<key>chapterTitle</key>
+					<string>第十九章　相见欢</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc020.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十章　恨无常</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/14/mydoc021.htm</string>
+					<key>chapterTitle</key>
+					<string>后    记</string>
+				</dict>
+			</array>
+		</array>
+	</dict>
+	<dict>
+		<key>status</key>
+		<string>已完成</string>
+		<key>spell</key>
+		<string>yttlj</string>
+		<key>author</key>
+		<string>金庸</string>
+		<key>src</key>
+		<string>wuxia7.png</string>
+		<key>title</key>
+		<string>倚天屠龙记</string>
+		<key>partTitleArr</key>
+		<array>
+			<string>章节列表</string>
+		</array>
+		<key>chapterArrArr</key>
+		<array>
+			<array>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc001.htm</string>
+					<key>chapterTitle</key>
+					<string>一　天涯思君不可忘</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc002.htm</string>
+					<key>chapterTitle</key>
+					<string>二　武当山顶松柏长</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc003.htm</string>
+					<key>chapterTitle</key>
+					<string>三　宝刀百炼生玄光</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc004.htm</string>
+					<key>chapterTitle</key>
+					<string>四　字作丧乱意仿惶</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc005.htm</string>
+					<key>chapterTitle</key>
+					<string>五　皓臂似玉梅花妆</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc006.htm</string>
+					<key>chapterTitle</key>
+					<string>六　浮槎北溟海茫茫</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc007.htm</string>
+					<key>chapterTitle</key>
+					<string>七　谁送冰舸来仙乡</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc008.htm</string>
+					<key>chapterTitle</key>
+					<string>八　穷发十载泛归航</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc009.htm</string>
+					<key>chapterTitle</key>
+					<string>九　七侠聚会乐未央</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc010.htm</string>
+					<key>chapterTitle</key>
+					<string>十　百岁寿宴摧肝肠</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc011.htm</string>
+					<key>chapterTitle</key>
+					<string>十一　有女长舌利如枪</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc012.htm</string>
+					<key>chapterTitle</key>
+					<string>十二　针其膏兮药其育</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc013.htm</string>
+					<key>chapterTitle</key>
+					<string>十三　不悔仲子逾我墙</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc014.htm</string>
+					<key>chapterTitle</key>
+					<string>十四　当道时见中山狼</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc015.htm</string>
+					<key>chapterTitle</key>
+					<string>十五　奇谋秘计梦一场</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc016.htm</string>
+					<key>chapterTitle</key>
+					<string>十六　剥极而复参九阳</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc017.htm</string>
+					<key>chapterTitle</key>
+					<string>十七　青翼出没一笑飏</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc018.htm</string>
+					<key>chapterTitle</key>
+					<string>十八　倚天长剑飞寒铓</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc019.htm</string>
+					<key>chapterTitle</key>
+					<string>十九　祸起萧墙破金汤</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc020.htm</string>
+					<key>chapterTitle</key>
+					<string>二十　与子共穴相扶将</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc021.htm</string>
+					<key>chapterTitle</key>
+					<string>二十一　排难解纷当六强</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc022.htm</string>
+					<key>chapterTitle</key>
+					<string>二十二　群雄归心约三章</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc023.htm</string>
+					<key>chapterTitle</key>
+					<string>二十三　灵芙醉客绿柳庄</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc024.htm</string>
+					<key>chapterTitle</key>
+					<string>二十四　太极初传柔克刚</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc025.htm</string>
+					<key>chapterTitle</key>
+					<string>二十五　举火燎天何煌煌</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc026.htm</string>
+					<key>chapterTitle</key>
+					<string>二十六　俊貌玉面甘毁伤</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc027.htm</string>
+					<key>chapterTitle</key>
+					<string>二十七　百尺高塔任回翔</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc028.htm</string>
+					<key>chapterTitle</key>
+					<string>二十八　恩断义绝紫衫王</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc029.htm</string>
+					<key>chapterTitle</key>
+					<string>二十九　四女同舟何所望</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc030.htm</string>
+					<key>chapterTitle</key>
+					<string>三  十　东西永隔如参商</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc031.htm</string>
+					<key>chapterTitle</key>
+					<string>三十一　刀剑齐失人云亡</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc032.htm</string>
+					<key>chapterTitle</key>
+					<string>三十二　冤蒙不白愁欲狂</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc033.htm</string>
+					<key>chapterTitle</key>
+					<string>三十三　箫长琴短衣流黄</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc034.htm</string>
+					<key>chapterTitle</key>
+					<string>三十四　新妇素手裂红裳</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc035.htm</string>
+					<key>chapterTitle</key>
+					<string>三十五　屠狮有会孰为殃</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc036.htm</string>
+					<key>chapterTitle</key>
+					<string>三十六　夭矫三松郁青苍</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc037.htm</string>
+					<key>chapterTitle</key>
+					<string>三十七　天下英雄莫能当</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc038.htm</string>
+					<key>chapterTitle</key>
+					<string>三十八　君子可欺之以方</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc039.htm</string>
+					<key>chapterTitle</key>
+					<string>三十九　秘笈兵书此中藏</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc040.htm</string>
+					<key>chapterTitle</key>
+					<string>四  十　不识张郎是张郎</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/11/mydoc041.htm</string>
+					<key>chapterTitle</key>
+					<string>后记</string>
+				</dict>
+			</array>
+		</array>
+	</dict>
+	<dict>
+		<key>status</key>
+		<string>已完成</string>
+		<key>spell</key>
+		<string>bmxxf</string>
+		<key>author</key>
+		<string>金庸</string>
+		<key>src</key>
+		<string>wuxia8.png</string>
+		<key>title</key>
+		<string>白马啸西风</string>
+		<key>partTitleArr</key>
+		<array>
+			<string>章节列表</string>
+		</array>
+		<key>chapterArrArr</key>
+		<array>
+			<array>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/18/mydoc001.htm</string>
+					<key>chapterTitle</key>
+					<string>一</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/18/mydoc002.htm</string>
+					<key>chapterTitle</key>
+					<string>二</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/18/mydoc003.htm</string>
+					<key>chapterTitle</key>
+					<string>三</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/18/mydoc004.htm</string>
+					<key>chapterTitle</key>
+					<string>四</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/18/mydoc005.htm</string>
+					<key>chapterTitle</key>
+					<string>五</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/18/mydoc006.htm</string>
+					<key>chapterTitle</key>
+					<string>六</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/18/mydoc007.htm</string>
+					<key>chapterTitle</key>
+					<string>七</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/18/mydoc008.htm</string>
+					<key>chapterTitle</key>
+					<string>八</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/18/mydoc009.htm</string>
+					<key>chapterTitle</key>
+					<string>九</string>
+				</dict>
+			</array>
+		</array>
+	</dict>
+	<dict>
+		<key>status</key>
+		<string>已完成</string>
+		<key>spell</key>
+		<string>tlbb</string>
+		<key>author</key>
+		<string>金庸</string>
+		<key>src</key>
+		<string>wuxia9.png</string>
+		<key>title</key>
+		<string>天龙八部</string>
+		<key>partTitleArr</key>
+		<array>
+			<string>章节列表</string>
+		</array>
+		<key>chapterArrArr</key>
+		<array>
+			<array>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc001.htm</string>
+					<key>chapterTitle</key>
+					<string>释名</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc002.htm</string>
+					<key>chapterTitle</key>
+					<string>一　青衫磊落险峰行</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc003.htm</string>
+					<key>chapterTitle</key>
+					<string>二　玉壁月华明</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc004.htm</string>
+					<key>chapterTitle</key>
+					<string>三　马疾香幽</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc005.htm</string>
+					<key>chapterTitle</key>
+					<string>四　崖高人远</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc006.htm</string>
+					<key>chapterTitle</key>
+					<string>五　微步縠纹生</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc007.htm</string>
+					<key>chapterTitle</key>
+					<string>六　谁家子弟谁家院</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc008.htm</string>
+					<key>chapterTitle</key>
+					<string>七　无计悔多情</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc009.htm</string>
+					<key>chapterTitle</key>
+					<string>八　虎啸龙吟</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc010.htm</string>
+					<key>chapterTitle</key>
+					<string>九　换巢鸾凤</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc011.htm</string>
+					<key>chapterTitle</key>
+					<string>十　剑气碧烟横</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc012.htm</string>
+					<key>chapterTitle</key>
+					<string>十一　向来痴</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc013.htm</string>
+					<key>chapterTitle</key>
+					<string>十二　从此醉</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc014.htm</string>
+					<key>chapterTitle</key>
+					<string>十三　水榭听香 指点群豪戏</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc015.htm</string>
+					<key>chapterTitle</key>
+					<string>十四　剧饮千杯男儿事</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc016.htm</string>
+					<key>chapterTitle</key>
+					<string>十五　杏子林中 商略平生义</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc017.htm</string>
+					<key>chapterTitle</key>
+					<string>十六　昔时因</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc018.htm</string>
+					<key>chapterTitle</key>
+					<string>十七　今日意</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc019.htm</string>
+					<key>chapterTitle</key>
+					<string>十八　胡汉恩仇 须倾英雄泪</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc020.htm</string>
+					<key>chapterTitle</key>
+					<string>十九　虽万千人吾往矣</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc021.htm</string>
+					<key>chapterTitle</key>
+					<string>二十　悄立雁门 绝壁无余字</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc022.htm</string>
+					<key>chapterTitle</key>
+					<string>二十一　千里茫茫若梦</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc023.htm</string>
+					<key>chapterTitle</key>
+					<string>二十二　双眸粲粲如星</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc024.htm</string>
+					<key>chapterTitle</key>
+					<string>二十三　塞上牛羊空许约</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc025.htm</string>
+					<key>chapterTitle</key>
+					<string>二十四　烛畔鬓云有旧盟</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc026.htm</string>
+					<key>chapterTitle</key>
+					<string>二十五　莽苍踏雪行</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc027.htm</string>
+					<key>chapterTitle</key>
+					<string>二十六　赤手屠熊搏虎</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc028.htm</string>
+					<key>chapterTitle</key>
+					<string>二十七　金戈荡寇鏖兵</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc029.htm</string>
+					<key>chapterTitle</key>
+					<string>二十八　草木残生颅铸铁</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc030.htm</string>
+					<key>chapterTitle</key>
+					<string>二十九　虫豸凝寒掌作冰</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc031.htm</string>
+					<key>chapterTitle</key>
+					<string>三 十　挥洒缚豪英</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc032.htm</string>
+					<key>chapterTitle</key>
+					<string>三十一　输赢成败 又争由人算</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc033.htm</string>
+					<key>chapterTitle</key>
+					<string>三十二　且自逍遥没谁管</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc034.htm</string>
+					<key>chapterTitle</key>
+					<string>三十三　奈天昏地暗 斗转星移</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc035.htm</string>
+					<key>chapterTitle</key>
+					<string>三十四　风骤紧 缥缈峰头云乱</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc036.htm</string>
+					<key>chapterTitle</key>
+					<string>三十五　红颜弹指老 刹那芳华</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc037.htm</string>
+					<key>chapterTitle</key>
+					<string>三十六　梦里真 真语真幻</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc038.htm</string>
+					<key>chapterTitle</key>
+					<string>三十七　同一笑 到头万事俱空</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc039.htm</string>
+					<key>chapterTitle</key>
+					<string>三十八　胡涂醉 情长计短</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc040.htm</string>
+					<key>chapterTitle</key>
+					<string>三十九　解不了 名缰系嗔贪</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc041.htm</string>
+					<key>chapterTitle</key>
+					<string>四 十　却试问 几时把痴心断</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc042.htm</string>
+					<key>chapterTitle</key>
+					<string>四十一　燕云十八飞骑 奔腾如虎风烟举</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc043.htm</string>
+					<key>chapterTitle</key>
+					<string>四十二　老魔小丑岂堪一击 胜之不武</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc044.htm</string>
+					<key>chapterTitle</key>
+					<string>四十三　王霸雄图血海深仇 尽归尘土</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc045.htm</string>
+					<key>chapterTitle</key>
+					<string>四十四　念枉求美眷 良缘安在</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc046.htm</string>
+					<key>chapterTitle</key>
+					<string>四十五　枯井底 污泥处</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc047.htm</string>
+					<key>chapterTitle</key>
+					<string>四十六　酒罢问君三语</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc048.htm</string>
+					<key>chapterTitle</key>
+					<string>四十七　为谁开 茶花满路</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc049.htm</string>
+					<key>chapterTitle</key>
+					<string>四十八　王孙落魄怎生消得 杨枝玉露</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc050.htm</string>
+					<key>chapterTitle</key>
+					<string>四十九　敝屣荣华浮云生死 此身何惧</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc051.htm</string>
+					<key>chapterTitle</key>
+					<string>五 十　教单于折箭六军辟易 奋英雄怒</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc052.htm</string>
+					<key>chapterTitle</key>
+					<string>后记</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/01/mydoc053.htm</string>
+					<key>chapterTitle</key>
+					<string>附录</string>
+				</dict>
+			</array>
+		</array>
+	</dict>
+	<dict>
+		<key>status</key>
+		<string>已完成</string>
+		<key>spell</key>
+		<string>lcj</string>
+		<key>author</key>
+		<string>金庸</string>
+		<key>src</key>
+		<string>wuxia10.png</string>
+		<key>title</key>
+		<string>连城诀</string>
+		<key>partTitleArr</key>
+		<array>
+			<string>章节列表</string>
+		</array>
+		<key>chapterArrArr</key>
+		<array>
+			<array>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/21/mydoc001.htm</string>
+					<key>chapterTitle</key>
+					<string>一　乡下人进城</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/21/mydoc002.htm</string>
+					<key>chapterTitle</key>
+					<string>二　牢狱</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/21/mydoc003.htm</string>
+					<key>chapterTitle</key>
+					<string>三　人淡如菊</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/21/mydoc004.htm</string>
+					<key>chapterTitle</key>
+					<string>四　空心菜</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/21/mydoc005.htm</string>
+					<key>chapterTitle</key>
+					<string>五　老鼠汤</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/21/mydoc006.htm</string>
+					<key>chapterTitle</key>
+					<string>六　血刀老祖</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/21/mydoc007.htm</string>
+					<key>chapterTitle</key>
+					<string>七　落花流水</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/21/mydoc008.htm</string>
+					<key>chapterTitle</key>
+					<string>八　羽衣</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/21/mydoc009.htm</string>
+					<key>chapterTitle</key>
+					<string>九　“梁山伯·祝英台”</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/21/mydoc010.htm</string>
+					<key>chapterTitle</key>
+					<string>十　《唐诗选辑》</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/21/mydoc011.htm</string>
+					<key>chapterTitle</key>
+					<string>十一　砌墙</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/21/mydoc012.htm</string>
+					<key>chapterTitle</key>
+					<string>十二　大宝藏</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/21/mydoc013.htm</string>
+					<key>chapterTitle</key>
+					<string>后记</string>
+				</dict>
+			</array>
+		</array>
+	</dict>
+	<dict>
+		<key>status</key>
+		<string>已完成</string>
+		<key>spell</key>
+		<string>xkx</string>
+		<key>author</key>
+		<string>金庸</string>
+		<key>src</key>
+		<string>wuxia11.png</string>
+		<key>title</key>
+		<string>侠客行</string>
+		<key>partTitleArr</key>
+		<array>
+			<string>章节列表</string>
+		</array>
+		<key>chapterArrArr</key>
+		<array>
+			<array>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc001.htm</string>
+					<key>chapterTitle</key>
+					<string>一　玄铁令</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc002.htm</string>
+					<key>chapterTitle</key>
+					<string>二　少年闯大祸</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc003.htm</string>
+					<key>chapterTitle</key>
+					<string>三　摩天崖</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc004.htm</string>
+					<key>chapterTitle</key>
+					<string>四　长乐帮帮主</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc005.htm</string>
+					<key>chapterTitle</key>
+					<string>五　叮叮当当</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc006.htm</string>
+					<key>chapterTitle</key>
+					<string>六　伤疤</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc007.htm</string>
+					<key>chapterTitle</key>
+					<string>七　雪山剑法</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc008.htm</string>
+					<key>chapterTitle</key>
+					<string>八　白痴</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc009.htm</string>
+					<key>chapterTitle</key>
+					<string>九　大粽子</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc010.htm</string>
+					<key>chapterTitle</key>
+					<string>十　金乌刀法</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc011.htm</string>
+					<key>chapterTitle</key>
+					<string>十一　药酒</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc012.htm</string>
+					<key>chapterTitle</key>
+					<string>十二　两块铜牌</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc013.htm</string>
+					<key>chapterTitle</key>
+					<string>十三　舐犊之情</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc014.htm</string>
+					<key>chapterTitle</key>
+					<string>十四　关东四大门派</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc015.htm</string>
+					<key>chapterTitle</key>
+					<string>十五　真相</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc016.htm</string>
+					<key>chapterTitle</key>
+					<string>十六　凌霄城</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc017.htm</string>
+					<key>chapterTitle</key>
+					<string>十七　自大成狂</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc018.htm</string>
+					<key>chapterTitle</key>
+					<string>十八　有所求</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc019.htm</string>
+					<key>chapterTitle</key>
+					<string>十九　腊八粥</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc020.htm</string>
+					<key>chapterTitle</key>
+					<string>二十　“侠客行”</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc021.htm</string>
+					<key>chapterTitle</key>
+					<string>二十一　“我是谁？”</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/22/mydoc022.htm</string>
+					<key>chapterTitle</key>
+					<string>后记</string>
+				</dict>
+			</array>
+		</array>
+	</dict>
+	<dict>
+		<key>status</key>
+		<string>已完成</string>
+		<key>spell</key>
+		<string>xajh</string>
+		<key>author</key>
+		<string>金庸</string>
+		<key>src</key>
+		<string>wuxia12.png</string>
+		<key>title</key>
+		<string>笑傲江湖</string>
+		<key>partTitleArr</key>
+		<array>
+			<string>章节列表</string>
+		</array>
+		<key>chapterArrArr</key>
+		<array>
+			<array>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc001.htm</string>
+					<key>chapterTitle</key>
+					<string>一　灭门</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc002.htm</string>
+					<key>chapterTitle</key>
+					<string>二　聆秘</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc003.htm</string>
+					<key>chapterTitle</key>
+					<string>三　救难</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc004.htm</string>
+					<key>chapterTitle</key>
+					<string>四　坐斗</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc005.htm</string>
+					<key>chapterTitle</key>
+					<string>五　治伤</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc006.htm</string>
+					<key>chapterTitle</key>
+					<string>六　洗手</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc007.htm</string>
+					<key>chapterTitle</key>
+					<string>七　授谱</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc008.htm</string>
+					<key>chapterTitle</key>
+					<string>八　面壁</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc009.htm</string>
+					<key>chapterTitle</key>
+					<string>九　邀客</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc010.htm</string>
+					<key>chapterTitle</key>
+					<string>十　传剑</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc011.htm</string>
+					<key>chapterTitle</key>
+					<string>十一　聚气</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc012.htm</string>
+					<key>chapterTitle</key>
+					<string>十二　围攻</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc013.htm</string>
+					<key>chapterTitle</key>
+					<string>十三　学琴</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc014.htm</string>
+					<key>chapterTitle</key>
+					<string>十四　论杯</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc015.htm</string>
+					<key>chapterTitle</key>
+					<string>十五　灌药</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc016.htm</string>
+					<key>chapterTitle</key>
+					<string>十六　注血</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc017.htm</string>
+					<key>chapterTitle</key>
+					<string>十七　倾心</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc018.htm</string>
+					<key>chapterTitle</key>
+					<string>十八　联手</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc019.htm</string>
+					<key>chapterTitle</key>
+					<string>十九　打赌</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc020.htm</string>
+					<key>chapterTitle</key>
+					<string>二十　入狱</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc021.htm</string>
+					<key>chapterTitle</key>
+					<string>二十一　囚居</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc022.htm</string>
+					<key>chapterTitle</key>
+					<string>二十二　脱困</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc023.htm</string>
+					<key>chapterTitle</key>
+					<string>二十三　伏击</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc024.htm</string>
+					<key>chapterTitle</key>
+					<string>二十四　蒙冤</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc025.htm</string>
+					<key>chapterTitle</key>
+					<string>二十五　闻讯</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc026.htm</string>
+					<key>chapterTitle</key>
+					<string>二十六　围寺</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc027.htm</string>
+					<key>chapterTitle</key>
+					<string>二十七　三战</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc028.htm</string>
+					<key>chapterTitle</key>
+					<string>二十八　积雪</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc029.htm</string>
+					<key>chapterTitle</key>
+					<string>二十九　掌门</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc030.htm</string>
+					<key>chapterTitle</key>
+					<string>三  十　密议</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc031.htm</string>
+					<key>chapterTitle</key>
+					<string>三十一　绣花</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc032.htm</string>
+					<key>chapterTitle</key>
+					<string>三十二　并派</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc033.htm</string>
+					<key>chapterTitle</key>
+					<string>三十三　比剑</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc034.htm</string>
+					<key>chapterTitle</key>
+					<string>三十四　夺帅</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc035.htm</string>
+					<key>chapterTitle</key>
+					<string>三十五　复仇</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc036.htm</string>
+					<key>chapterTitle</key>
+					<string>三十六　伤逝</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc037.htm</string>
+					<key>chapterTitle</key>
+					<string>三十七　迫娶</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc038.htm</string>
+					<key>chapterTitle</key>
+					<string>三十八　聚歼</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc039.htm</string>
+					<key>chapterTitle</key>
+					<string>三十九　拒盟</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc040.htm</string>
+					<key>chapterTitle</key>
+					<string>四  十　曲谐</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/10/mydoc041.htm</string>
+					<key>chapterTitle</key>
+					<string>后记</string>
+				</dict>
+			</array>
+		</array>
+	</dict>
+	<dict>
+		<key>status</key>
+		<string>已完成</string>
+		<key>spell</key>
+		<string>ldj</string>
+		<key>author</key>
+		<string>金庸</string>
+		<key>src</key>
+		<string>wuxia13.png</string>
+		<key>title</key>
+		<string>鹿鼎记</string>
+		<key>partTitleArr</key>
+		<array>
+			<string>章节列表</string>
+		</array>
+		<key>chapterArrArr</key>
+		<array>
+			<array>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc001.htm</string>
+					<key>chapterTitle</key>
+					<string>第 一 回　纵横钩党清流祸 峭茜风期月旦评</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc002.htm</string>
+					<key>chapterTitle</key>
+					<string>第 二 回　绝世奇事传闻里 最好交情见面初</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc003.htm</string>
+					<key>chapterTitle</key>
+					<string>第 三 回　符来袖里围方解 椎脱囊中事竟成</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc004.htm</string>
+					<key>chapterTitle</key>
+					<string>第 四 回　无迹可寻羚挂角 忘机相对鹤梳翎</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc005.htm</string>
+					<key>chapterTitle</key>
+					<string>第 五 回　金戈运启驱除会 玉匣书留想象间</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc006.htm</string>
+					<key>chapterTitle</key>
+					<string>第 六 回　可知今日怜才意 即是当时种树心</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc007.htm</string>
+					<key>chapterTitle</key>
+					<string>第 七 回　古来成败原关数 天下英雄大可知</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc008.htm</string>
+					<key>chapterTitle</key>
+					<string>第 八 回　佳客偶逢如有约 盛名长恐见无因</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc009.htm</string>
+					<key>chapterTitle</key>
+					<string>第 九 回　琢磨颇望成全璧 激烈何须到碎琴</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc010.htm</string>
+					<key>chapterTitle</key>
+					<string>第 十 回　尽有狂言容数子 每从高会厕诸公</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc011.htm</string>
+					<key>chapterTitle</key>
+					<string>第十一回　春辞小院离离影 夜受轻衫漠漠香</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc012.htm</string>
+					<key>chapterTitle</key>
+					<string>第十二回　语带滑稽吾是戏 弊清摘发尔如神</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc013.htm</string>
+					<key>chapterTitle</key>
+					<string>第十三回　翻覆两家天假手 兴衰一劫局更新</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc014.htm</string>
+					<key>chapterTitle</key>
+					<string>第十四回　放逐肯消亡国恨 岁时犹动楚人哀</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc015.htm</string>
+					<key>chapterTitle</key>
+					<string>第十五回　关心风雨经联榻 轻命江山博壮游</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc016.htm</string>
+					<key>chapterTitle</key>
+					<string>第十六回　粉麝余香衔语燕 珮环新鬼泣啼乌</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc017.htm</string>
+					<key>chapterTitle</key>
+					<string>第十七回　法门猛叩无方便 疑网重开有譬如</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc018.htm</string>
+					<key>chapterTitle</key>
+					<string>第十八回　金刚宝杵卫帝释 雕篆石碣敲头陀</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc019.htm</string>
+					<key>chapterTitle</key>
+					<string>第十九回　九州聚铁铸一字 百金立木招群魔</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc020.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十回　残碑日月看仍在 前辈风流许再攀</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc021.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十一回　金剪无声云委地 宝钗有梦燕依人</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc022.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十二回　老衲山中移漏处 佳人世外改妆时</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc023.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十三回　天生才士定多癖 君与此图皆可传</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc024.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十四回　爱河纵涸须千劫 苦海难量为一慈</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc025.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十五回　乌飞白头窜帝子 马挟红粉啼宫娥</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc026.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十六回　草木连天人骨白 关山满眼夕阳红</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc027.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十七回　滇海有人闻鬼哭 棘门此外尽儿嬉</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc028.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十八回　未免情多丝宛转 为谁辛苦窍玲珑</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc029.htm</string>
+					<key>chapterTitle</key>
+					<string>第二十九回　卷幔微风香忽到 瞰床新月雨初收</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc030.htm</string>
+					<key>chapterTitle</key>
+					<string>第 三十 回　镇将南朝偏跋扈 部兵西楚最轻剽</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc031.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十一回　罗甸一军深壁垒 滇池千顷沸波涛</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc032.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十二回　歌喉欲断从弦续 舞袖能长听客夸次日</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc033.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十三回　谁无痼疾难相笑 各有风流两不如</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc034.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十四回　一纸兴亡看复鹿 千年灰劫付冥鸿</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc035.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十五回　曾随东西南北路 独结冰霜雨雪缘</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc036.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十六回　犵鸟蛮花天万里 朔云边雪路千盘</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc037.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十七回　辕门谁上平蛮策 朝议先颁谕蜀文</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc038.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十八回　纵横野马群飞路 跋扈风筝一线天</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc039.htm</string>
+					<key>chapterTitle</key>
+					<string>第三十九回　先生乐事行如栉 小子浮踪寄若萍</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc040.htm</string>
+					<key>chapterTitle</key>
+					<string>第 四十 回　待兔只疑株可守 求鱼方悔木难缘</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc041.htm</string>
+					<key>chapterTitle</key>
+					<string>第四十一回　渔阳鼓动天方醉 督亢图穷悔已迟</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc042.htm</string>
+					<key>chapterTitle</key>
+					<string>第四十二回　九重城阙微茫外 一气风云吐纳间</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc043.htm</string>
+					<key>chapterTitle</key>
+					<string>第四十三回　身作红云长傍日 心随碧草又迎风</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc044.htm</string>
+					<key>chapterTitle</key>
+					<string>第四十四回　人来绝域原拚命 事到伤心每怕真</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc045.htm</string>
+					<key>chapterTitle</key>
+					<string>第四十五回　尚余截竹为竿手 可有临渊结网心</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc046.htm</string>
+					<key>chapterTitle</key>
+					<string>第四十六回　千里帆樯来域外 九霄风雨过城头</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc047.htm</string>
+					<key>chapterTitle</key>
+					<string>第四十七回　云点旌旗秋出塞 风传鼓角夜临关</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc048.htm</string>
+					<key>chapterTitle</key>
+					<string>第四十八回　都护玉门关不设 将军铜柱界重标</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc049.htm</string>
+					<key>chapterTitle</key>
+					<string>第四十九回 好官气色车裘壮 独客心情故旧疑</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc050.htm</string>
+					<key>chapterTitle</key>
+					<string>第 五十 回　鹗立云端原矫矫 鸿飞天外又冥冥</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc051.htm</string>
+					<key>chapterTitle</key>
+					<string>附录　康熙朝的机密奏折</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.xiexingcun.com/jinyong/20/mydoc052.htm</string>
+					<key>chapterTitle</key>
+					<string>后记</string>
+				</dict>
+			</array>
+		</array>
+	</dict>
+	<dict>
+		<key>status</key>
+		<string>已完成</string>
+		<key>spell</key>
+		<string>ynj</string>
+		<key>author</key>
+		<string>金庸</string>
+		<key>src</key>
+		<string>wuxia23.png</string>
+		<key>title</key>
+		<string>越女剑</string>
+		<key>partTitleArr</key>
+		<array>
+			<string>章节列表</string>
+		</array>
+		<key>chapterArrArr</key>
+		<array>
+			<array>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/ynj/1.htm</string>
+					<key>chapterTitle</key>
+					<string>第1页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/ynj/2.htm</string>
+					<key>chapterTitle</key>
+					<string>第2页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/ynj/3.htm</string>
+					<key>chapterTitle</key>
+					<string>第3页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/ynj/4.htm</string>
+					<key>chapterTitle</key>
+					<string>第4页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/ynj/5.htm</string>
+					<key>chapterTitle</key>
+					<string>第5页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/ynj/6.htm</string>
+					<key>chapterTitle</key>
+					<string>第6页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/ynj/7.htm</string>
+					<key>chapterTitle</key>
+					<string>第7页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/ynj/8.htm</string>
+					<key>chapterTitle</key>
+					<string>第8页</string>
+				</dict>
+			</array>
+		</array>
+	</dict>
+	<dict>
+		<key>status</key>
+		<string>已完成</string>
+		<key>spell</key>
+		<string>yyd</string>
+		<key>author</key>
+		<string>金庸</string>
+		<key>src</key>
+		<string>wuxia24.png</string>
+		<key>title</key>
+		<string>鸳鸯刀</string>
+		<key>partTitleArr</key>
+		<array>
+			<string>章节列表</string>
+		</array>
+		<key>chapterArrArr</key>
+		<array>
+			<array>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/yyd/01.htm</string>
+					<key>chapterTitle</key>
+					<string>第01页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/yyd/02.htm</string>
+					<key>chapterTitle</key>
+					<string>第02页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/yyd/03.htm</string>
+					<key>chapterTitle</key>
+					<string>第03页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/yyd/04.htm</string>
+					<key>chapterTitle</key>
+					<string>第04页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/yyd/05.htm</string>
+					<key>chapterTitle</key>
+					<string>第05页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/yyd/06.htm</string>
+					<key>chapterTitle</key>
+					<string>第06页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/yyd/07.htm</string>
+					<key>chapterTitle</key>
+					<string>第07页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/yyd/08.htm</string>
+					<key>chapterTitle</key>
+					<string>第08页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/yyd/09.htm</string>
+					<key>chapterTitle</key>
+					<string>第09页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/yyd/10.htm</string>
+					<key>chapterTitle</key>
+					<string>第10页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/yyd/11.htm</string>
+					<key>chapterTitle</key>
+					<string>第11页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/yyd/12.htm</string>
+					<key>chapterTitle</key>
+					<string>第12页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/yyd/13.htm</string>
+					<key>chapterTitle</key>
+					<string>第13页</string>
+				</dict>
+				<dict>
+					<key>href</key>
+					<string>http://www.my285.com/wuxia/jinyong/yyd/14.htm</string>
+					<key>chapterTitle</key>
+					<string>第14页</string>
+				</dict>
+			</array>
+		</array>
+	</dict>
+</array>
+</plist>
